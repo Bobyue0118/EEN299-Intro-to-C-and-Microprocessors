@@ -1,1 +1,1 @@
-# Assignments-of-EEN299-Intro-to-C-Microprocessors-
+# Assignments-of-EEN299-Intro-to-C-Microprocessors
